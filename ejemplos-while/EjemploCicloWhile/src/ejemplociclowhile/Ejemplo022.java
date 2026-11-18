@@ -43,5 +43,5 @@ public class Ejemplo022 {
 /*
 Generar un programa que me permita ingresar un limite por teclado y presentar
 la suma de todos los numeros impares que exitan entre 1 y el limite.
-Se presente la suma  de los pares y la multiplicación de los impares.
+Se presente la suma de los pares y la multiplicación de los impares.
 */
